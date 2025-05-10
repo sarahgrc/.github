@@ -22,4 +22,4 @@ Nous allons donc :
 | **[François-Xavier](francois-xavier.morel@telecom-paris.fr)**| [FX](...) |
 | **[Luca Hachina](luca.hachani@telecom-paris.fr)**| [Luca](...) |
 | **[Nicolas Allègre](nicolas.allegre@telecom-paris.fr)**| [nicolas-allegre](https://github.com/nicolas-allegre) |
-| **[Sarah Garcia](sarah.garcia@telecom-paris.fr)**   | [Sarah](...) |
+| **[Sarah Garcia](sarah.garcia@telecom-paris.fr)**   | [Sarah]((https://github.com/sarahgrc)) |
